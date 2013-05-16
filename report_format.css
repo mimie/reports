@@ -1,0 +1,72 @@
+<style type="text/css">
+   
+    table{
+       border-collapse:collapse;
+    }
+
+    table.circuitDetail td{
+       <!--border:1px solid black;-->
+       padding:5px;
+       width:130px;
+       height:25px;
+    }
+
+    #tdlabel{
+      color:#0000FF;
+      font-style:italic;
+      font-weight:bold;
+      font-family:"Arial","Calibri","Verdana",sans-serif;
+      font-size:13px;
+      width:35%;
+
+    }
+
+    #circuitData{
+      font-style:italic;
+      font-weight:bold;
+      font-family:"Arial","Calibri","Verdana",sans-serif;
+      font-size:13px;
+      width:65%;
+    }
+
+    #header{
+      font-style:italic;
+      color:#0B243B;
+      font-family:"Arial","Calibri","Verdana",sans-serif;
+    }
+
+    #dateRange{
+      font-style:bold;
+      color:#0404B4;
+      font-family:"Arial","Calibri","Verdana",sans-serif;
+    }
+
+    table.troubleTickets td,th{
+       border: 1px solid black;
+       padding: 6px;
+       border-color:#81BEF7; 
+       
+    }
+
+    #ticketsHeader{
+      color:#FF0000;
+      font-family:"Arial","Calibri","Verdana",sans-serif;
+      font-size:13px;
+      font-weight:bold;
+      background-color:#A9F5F2;
+    }
+
+    #ticketsData{
+      font-family:"Arial","Calibri","Verdana",sans-serif;
+      font-size:12px;
+      font-weight:bold;
+    }
+   
+    #ticketsData2{
+      font-family:"Arial","Calibri","Verdana",sans-serif;
+      font-size:12px;
+      font-weight:bold;
+      background-color:#A9F5F2;
+     }
+
+</style>

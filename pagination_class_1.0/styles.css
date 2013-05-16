@@ -1,0 +1,42 @@
+.pageOn {
+	background: #CCC;
+	border:		1px solid #369;
+	margin:		2px 4px;
+	padding:	2px 4px;
+	color:		#369;
+}
+
+.pageOff {
+	background: #EEE;
+	border:		1px solid #369;
+	margin:		2px 4px;
+	padding:	2px 4px;
+	color:		#369;
+}
+
+.pageOff:hover {
+	background:	#DDD;
+	cursor: pointer;
+}
+
+.pageOff a {
+	color:			 #000;
+	text-decoration: none;
+}
+
+.paginationSelect {
+	background: #EEE;
+}
+
+.paginationErrors {
+	clear:			both;
+	text-align:		left;
+	border:			2px dashed #D90;
+	color:			#A40;
+	background:		#FD9;
+	padding:		10px;
+	width:			70%;
+	margin:			auto;
+	margin-top:		40px;
+	margin-bottom:	40px;
+}
