@@ -1,7 +1,7 @@
 <?php
 /**
  *Less Than 30 Days of Installation with Troubles - main class
- *@author Karen Mae Convicto
+ *
  */
 
 
